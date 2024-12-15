@@ -23,7 +23,7 @@ Growing up in Medina, Ohio, I discovered my passion for technology at a young ag
 ## 🎓 Education
 
 <a href="https://www.miamioh.edu/cec/">
-	<img src="https://github.com/godlaska/godlaska/blob/main/Miami_University_logo_2021.png?raw=true" height="150" />
+	<img src="https://github.com/godlaska/godlaska/blob/main/miami-university-logo.png?raw=true" height="150" />
 </a>
 <h4> Bachelor of Science in Computer Science (2026)</h4>
 
