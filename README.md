@@ -25,9 +25,9 @@ Growing up in Medina, Ohio, I discovered my passion for technology at a young ag
 <a href="https://www.miamioh.edu/cec/">
 	<img src="https://github.com/godlaska/godlaska/blob/main/miami-university-logo.png?raw=true" height="150" />
 </a>
-<h4> Bachelor of Science in Computer Science (2026)</h4>
+<h4> <i>Computer Science</i> (Bachelor of Science)&emsp;&emsp;--&emsp;&emsp;Expected Graduation: 2026</h4>
 
-Established in 1809, Miami University is one of the oldest universities in the United States. It is located in the quiet, cornfield-surrounded town of Oxford, Ohio. Despite this, Miami is known for its excellent academic programs and beautiful campus.
+Miami University, located in Oxford, Ohio, is a public university founded in 1809, making it one of the oldest in the United States. It is known for its strong undergraduate programs and is often referred to as a "Public Ivy" for providing an Ivy League-like experience at a public university cost.  The main campus is celebrated for the beauty of its architecture and picturesque uptown, making it a [popular location for movie production](https://m.imdb.com/search/title/?locations=oxford,%20ohio,%20usa). The university is known for academic excellence and fostering a dynamic and supportive student environment. For a more extensive description, visit [Miami University's Wikipedia page](https://en.wikipedia.org/wiki/Miami_University).
 <br>
 
 ## 🔗 Contact Me!
