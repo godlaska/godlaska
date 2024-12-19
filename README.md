@@ -11,7 +11,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThetaTauMiami&repo=Firebase-Theta-Tau-Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,FFF8DC,FFFACD" />
 	</a>
  	<a href="https://github.com/XanderStigall03/DragoniteModCSE201">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XanderStigall03&repo=DragoniteModCSE201&icon_color=000000&text_color=000000&hide_border=true&border_radius=10&border_color=000000&show_owner=false&bg_color=50,E6E6FA,D8BFD8" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XanderStigall03&repo=DragoniteModCSE201&title_color=000001&icon_color=000000&text_color=000000&hide_border=true&border_radius=10&border_color=000000&show_owner=false&bg_color=50,E6E6FA,D8BFD8" />
 	</a>
 
 </p>
