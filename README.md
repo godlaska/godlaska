@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
-<h2><i>🌟 Spotlight Projects </i></h2>
+<h2><i>⭐ Spotlight Projects </i></h2>
 <p align="center">
 	<a href="https://github.com/godlaska/Stock-Ticker">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=godlaska&repo=Stock-Ticker&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,B0E0E6,87CEEB" />
