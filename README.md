@@ -38,8 +38,8 @@ Miami University, located in Oxford, Ohio, is a public university founded in 180
 ## 📊 My GitHub Statistics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=godlaska&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godlaska&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=godlaska&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godlaska&hide=scheme,prolog&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact&cache_seconds=1800" />
 </p>
 
 <br><br>
