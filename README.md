@@ -5,7 +5,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=godlaska&repo=Stock-Ticker&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,B0E0E6,87CEEB" />
 	</a>
 	<a href="https://github.com/godlaska/Price-Visualizer">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=godlaska&repo=Price-Visualizer&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,90EE90,98FB98" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=godlaska&repo=Price-Visualizer&title_color=000000&icon_color=000001&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,90EE90,98FB98" />
 	</a>
   	<a href="https://github.com/ThetaTauMiami/Firebase-Theta-Tau-Website">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThetaTauMiami&repo=Firebase-Theta-Tau-Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,FFF8DC,FFFACD" />
